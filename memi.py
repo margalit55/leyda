@@ -23,5 +23,5 @@ async def waste_sorting (ctx):
 красный – стекло;
 серый – электрооборудование, вышедшее из строя.
 " * count_heh''')
-
+print('test')
 bot.run("")
